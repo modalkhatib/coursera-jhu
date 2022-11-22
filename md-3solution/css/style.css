@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: darkgrey;
+}
+
+.navbar-brand a {
+    font-size: 2em;
+    color: black;
+}
+
+#nav-list li {
+    text-align: center;
+}
+
+#nav-list li a {
+    color: black;
+}
+h2 {
+    color: black;
+}
+ div section{
+    font-size: 1.2em;
+    background-color: coral;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+p a {
+    color: blue;
+}
+
